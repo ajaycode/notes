@@ -1,2 +1,3 @@
-# notes
-Notes
+# Notes
+
+[Kotlin notes](Kotlin.md)
